@@ -104,5 +104,5 @@ ___
 - **LinkedIn Profile:** [Click here](https://www.linkedin.com/in/zine-abdelouahab) 
 - **Email:** abdelouahabzineelabidine@gmail.com
 
-Project Link: [GitHub Repository](https://github.com/Zino0003/laptop s-scraper)
+Project Link: [GitHub Repository](https://github.com/Zino0003/laptops-scraper)
 
